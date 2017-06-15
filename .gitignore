@@ -1,0 +1,9 @@
+# IDE
+.idea
+*.iml
+
+# LIBS
+node_modules
+
+# BUILD
+public/bundle.js
